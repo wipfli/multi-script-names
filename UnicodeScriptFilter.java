@@ -43,8 +43,19 @@ public class UnicodeScriptFilter {
                     }
                 }
 
+                if (scriptsInLine.size() == 2 && scriptsInLine.contains(UnicodeScript.HAN)) {
+                    if (scriptsInLine.contains(UnicodeScript.HIRAGANA)) {
+                        continue;
+                    }
+                    if (scriptsInLine.contains(UnicodeScript.KATAKANA)) {
+                        continue;
+                    }
+                }
+
                 // Check if the line contains more than one unique script
                 if (scriptsInLine.size() > 1) {
+                    System.out.println(line);
+                    System.out.println(scriptsInLine);
                     writer.write(line);
                     writer.newLine();
                 }
