@@ -1,4 +1,4 @@
-# osmium tags-filter planet.osm.pbf "n/name=*" -o name-nodes.osm.pbf --overwrite
+# osmium tags-filter planet.osm.pbf "n/place=*" -o place-nodes.osm.pbf --overwrite
 
 import osmium
 import csv
@@ -14,7 +14,7 @@ class NameTagExtractor(osmium.SimpleHandler):
 
 # Initialize the handler and apply it to the filtered OSM file
 extractor = NameTagExtractor()
-extractor.apply_file("name-nodes.osm.pbf")
+extractor.apply_file("place-nodes.osm.pbf")
 
 # Write the results to a CSV file
 with open("names.csv", "w", newline='') as csvfile:
