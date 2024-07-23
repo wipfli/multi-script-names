@@ -149,7 +149,6 @@ Kaser / כֶּתֶר
 塘褔 Tong Fuk
 昂坪村 Ngong Ping Village
 القحطانية / ܩܒܪ̈ܐ ܚܘܪ̈ܐ
-Юрга I
 Ifrane ⵉⴼⵔⴰⵏ إفران
 Azrou ⴰⵣⵔⵓ أزرو
 El Hajeb ⵍⵃⴰⵊⴱ الحاجب
@@ -418,7 +417,6 @@ Laghouat ⵍⴰⴴⵡⴰⵟ الأغواط
 غوبتو Goubetto
 አምቦ / Ambo
 Tata ⵟⴰⵟⴰ طاطا
-Калуга II
 አራት ኪሎ / Arat Kilo
 ጥስ እሳት / Tis Abay
 Φuγετο Μuλος
@@ -707,7 +705,6 @@ Faya-Largeau فايا لارجو
 باهأي Bahaï
 Fada فادا
 荃灣 Tsuen Wan
-Ивдель I
 Chefchaouen ⵛⴼⵛⴰⵡⵏ شفشاون
 مارا Mara
 工布江达县 ཀོང་པོ་རྒྱ་མདའ།
@@ -736,8 +733,6 @@ Oukaïmeden ⵓⴽⴰⵢⵎⴷⴰⵏ أوكايمدن
 Өндөрхангай ᠥᠨᠳᠦᠷᠬᠠᠩᠭ᠋ᠠᠢ
 Наранбулаг ᠨᠠᠷᠠᠨᠪᠤᠯᠠᠭ
 Ногооннуур ᠨᠣᠭᠤᠭᠠᠨ ᠨᠠᠭᠤᠷ
-Дугинка III
-Дугинка I
 Dakhla ⴷⴰⵅⵍⴰ الداخلة
 Taghjijt ⵜⴰⵖⵊⵉⵊⵜ تغجيجت
 Bouizakarne ⴱⵓⵢⵣⴰⴽⴰⵔⵏ بويزكارن
@@ -769,8 +764,6 @@ Taliouine ⵜⴰⵍⵉⵡⵉⵏ تالوين
 Ouzoud ⵓⵣⵓⴷ أوزود
 Oued Laou ⵡⴰⴷ ⵍⴰⵡ وادي لو
 Issaguen ⵉⵙⴰⴳⵏ اساكن
-форт Павел I
-форт Александр I
 Al Hoceïma ⵍⵃⵓⵙⵉⵎⴰ الحسيمة
 Kariat Arekmane ⵇⵕⵢⵜ ⴰⵕⴽⵎⴰⵏ قرية أركمان
 Saïdia ⵙⵄⵉⴷⵉⵢⴰ السعيدية
@@ -979,8 +972,6 @@ Alma ⴰⵍⵎⴰ آلــمــا
 尼勒克县 نىلقى
 牛池灣 Ngau Chi Wan
 銅鑼灣東 Causeway Bay East
-Струга IV
-Струга I
 小欖村 Siu Lam Tsuen
 Сайхан ᠰᠠᠶᠢᠬᠠᠨ
 Ighrem Laalam ⵉⵖⵔⵎ ⵍⵄⵍⴰⵎ اغرم لعلام
@@ -1211,8 +1202,6 @@ iguidi ⵉⴳⵉⴷⵉ
 额济纳旗 ᠡᠵᠡᠨ᠎ᠡ
 突泉县 ᠲᠦᠴᠢᠤᠸᠠᠨ
 乌兰浩特市 ᠤᠯᠠᠭᠠᠨᠬᠣᠲᠠ
-Обманка I
-Обманка II
 夏河县 བསང་ཆུ།
 Сонгино ᠰᠣᠩᠭᠢᠨ᠎ᠠ
 ᐅᒥᐅᔭᖅ Umiujaq
@@ -1320,7 +1309,6 @@ Al Mahbass ⵍⵎⵃⴱⵙ المحبس
 吐木秀克镇 تۇمشۇق
 غوندي Goundi
 Чулуунхороот ᠴᠠᠯᠠᠭᠤᠨ ᠬᠣᠷᠢᠶ᠋ᠠᠲᠤ
-Економија III
 Черкеcское
 Хөлөнбуйр ᠬᠥᠯᠦᠨᠪᠦ᠋ᠢᠷ
 Баян-Овоо ᠪᠠᠶ᠋ᠠᠨ ᠣᠪᠤᠭ᠎ᠠ
@@ -1339,13 +1327,10 @@ Aït Majden ⴰⵢⵜ ⵎⴰⵊⴷⵏ آيت ماجدن
 Tanant ⵜⴰⵏⴰⵏⵜ تنانت
 Baïbokoum بيبوكمم
 Дæллаг Дзомагъ
-Липовая I
-Липовая II
 蘆鬚城 Lo So Shing
 Kōṟangal كرنگل
 M'rirt ⵎⵔⵉⵔⵜ مريرت
 满都拉图镇 ᠮᠠᠨᠳᠠᠯᠲᠤ
-Сосновка I
 罗玛/ལྷོ་མ
 多玛乡 རྡོ་དམར
 白銀鄉 Pak Ngan Heung
@@ -1485,7 +1470,6 @@ Id Abdi ⵉⴷ ⵄⴱⴷⵉ
 Timzilt تيمزيلت
 Oulad Noumer أولاد نومر
 Moulay Bousselham ⵎⵓⵍⴰⵢ ⴱⵓⵙⵍⵀⴰⵎ مولاي بو سلهام
-Засавица I
 Amsouzart أمسوزارت
 Imerzgane ⵉⵎⵔⵣⴳⴰⵏ إمرزگن
 Dchaira الدشيرة
@@ -1560,9 +1544,7 @@ Tin Mansour ⵜⵉⵏ ⵎⵏⵚⵓⵔ تين منصور
 Echemmaia ⵛⵎⴰⵄⵉⵢⴰ الشماعية
 Imintanoute ⵉⵎⵉ ⵏ ⵜⴰⵏⵓⵜ إيمنتانوت
 Gourrama ⴳⵯⵔⵔⴰⵎⴰ كرامة
-Левино II
 劏人排 Tong Yan Pai
-Левино I
 爛泥灣村 Lan Nai Wan Village
 東丫背村 Tung Ah Pui Village
 銀坑村 Ngan Hang Village
@@ -1749,7 +1731,6 @@ Sidi Bennour ⵙⵉⴷⵉ ⴱⵏⵏⵓⵕ سيدي بنور
 蛋家灣 Tan Ka Wan
 龍鼓灘 Lung Kwu Tan
 القوفعة/Al Qufa'ah
-Дубовская I
 īدات القفل
 قاع السحاī
 Полетаево II-е
@@ -2254,7 +2235,6 @@ Mrija ⵎⵔⵉⵊⴰ مريجة
 Anoual ⴰⵏⵡⴰⵍ أنوال
 Mazguitam Mⴻⵣⴳⵓⵉⵜⴰⵎ مزكيتام
 Aousserd ⴰⵡⵙⴰⵔⴷ أوسرد
-Вышка II
 Takseft ⵜⴰⵇⵙⴻⴼⵜ ثاقسفت
 M'Diq ⵎⴹⵢⴰⵇ المضيق
 Xо`йамагмуд
@@ -3427,8 +3407,6 @@ Aghbalou ⴰⵖⴱⴰⵍⵓ أغبالو
 Tiné-Djagaraba تينا
 鑽石山 Diamond Hill
 黃大仙 Wong Tai Sin
-Медаковић I
-Медаковић II
 冕宁县 ꍿꆈꑤ
 Boujdour ⴱⵓⵊⴷⵓⵔ بوجدور
 o. Баянды
@@ -4686,7 +4664,6 @@ Zwiwia ⵣⵡⵉⵡⵢⴰ
 Tarda ⵜⴰⵔⴷⴰ تاردة
 Trojdal ⵜⵕⵓⵊⴷⴰⵍ
 Foum El Oued فم الواد
-Струга II
 Annoual ⴰⵏⵡⴰⵍ أنوال
 Elkassaba ⵇⵚⵚⴰⴱⴰ القصبة
 Ouchanen أوشانـن
@@ -5041,7 +5018,6 @@ Bou Saka ⴱⵓ ⵚⴰⴽⴰ
 Guerguerat ⴳⵔⵉⴳⵔⴰⵜ الكركرات
 Lamhiriz ⵍⵎⵀⵉⵔⵉⵣ لمهيريز
 Farchana فرشانة
-Бірлік I
 Бірлік II Стансасы
 كوندجوروو Koundjourou
 ᕿᙵᐅᓐ Bathurst Inlet
@@ -5291,7 +5267,6 @@ Beleza በለዛ بلزا
 እምባ ደርሆ Emba Derho إمبا درهو
 ووكي Woki
 Riad ⵔⵉⵢⴰⴷ الرياض
-Мікрорайон I
 Бiрсуат
 الواطية El Watiyah
 قارة الخرشة Qaret El Kharshah
@@ -7069,7 +7044,6 @@ Igbar Izdar ⵉⴳⴱⴰⵔ ⵉⵣⴷⴰⵔ إگبار إزدار
 ⴳⵍⵉⴱⴰⵜ ⵍⴼⵓⵍⴰ Gleibat El Foula
 Cherafate ⵛⵔⴰⴼⴰⵜ الشرافات
 Ighilane ⵉⵔⵉⵍⴰⵏ إغيلان
-Підлісок II
 بيل سودجا Bill Sodja
 甘其毛都镇 ᠭᠠᠭᠴᠠᠮᠣᠳᠣ
 Amezrou ⴰⵎⵥⵕⵓ أمزرو
@@ -7958,9 +7932,6 @@ Paris Congo باريس الكونغو
 Repos الراحة
 Sabangali سابانقالي
 Toukra تكورا
-Миријево II
-Миријево III
-Миријево IV
 Djarmaya جارمايا
 Kallom كالم
 Kangalam كنقالم
@@ -8863,8 +8834,6 @@ Gondokoro غندكرو
 Magnassini-Nindri مكنسيني نيندري
 Lingoni لينكني
 Mrémani مرمني
-Струга V
-Струга III
 Hay Badr حي بدر
 Dar Dbibagh دار دبيغ
 新桂田 San Kwai Tin
@@ -9096,7 +9065,6 @@ El Menbar ⵍⵎⵏⴱⴰⵔ المنبر
 Khandek Zarzour ⵅⵏⴷⵇ ⵣⵔⵣoⵔ خندق الزرزور
 Trouk تروك
 Ntirift انتيرفت
-Дугинка II
 洪格尔高勒镇 ᠬᠣᠩᠭᠣᠷᠭᠣᠣᠯ
 查干淖尔镇 ᠴᠠᠭᠠᠨᠨᠠᠭᠤᠷ
 吉尔嘎郎图苏木 ᠵᠢᠷᠭᠠᠯᠠᠩᠲᠤ
@@ -10135,16 +10103,11 @@ Wadi Askhar وادي اسخر
 東坑尾村 Tung Hang Mei Tsuen
 田寮 Tin Liu
 大蠔新村 Tai Ho San Tsuen
-Центар V
-Центар IV
-Центар II
-Центар I
 多古の七ツ穴
 بلوک A
 بلوک B
 بلوک C
 بلوک D
-بلوک I
 بلوک J
 بلوک G
 بلوک H
@@ -10617,7 +10580,6 @@ Sidi Ali Embarek سيدي علي مبارك
 Sidi Mohammed Chérif سيدي محمد شريف
 blancoze بلانكوز
 柳树𨟠镇
-Засавица II
 ᑲᑎᕕᒃ Kativik
 Les Citronniers AADL - حي 832 مسكن عدل - القارص
 Cité 100 logements حي 100 مسكن اجتماعي
@@ -10703,8 +10665,6 @@ Kashem more - কাশেম মোড়
 衙前圍 Nga Tsin Wai
 彩雲 Choi Wan
 22 GD چک
-Кузнечиха II
-Кузнечиха I
 Sガレ
 Шурo
 樟樹灘 Cheung Shue Tan
@@ -10747,8 +10707,7 @@ Ankhar ديخيم
 馬頭涌 Ma Tau Chung
 巴扎尔胡勒村 بازارقۇل
 Douar Laarab دوار العرب
-Висим II
-海壩新村第二段 Hoi Pa San Tsuen Section II
+海壩新村第二段 Hoi Pa San Tsuen Section
 二陂圳新村 Yi Pei Chun New Village
 城門下村 Lower Shing Mun Village
 川龍鐵盧城 Chuen Lung Tit Lo Shing
@@ -10969,7 +10928,6 @@ Poe Laung (ပိုးလောင်း)
 Sar Kyin (ဆားကျင်း)
 Hlaing Bone (လှိုင်းဘုန်း)
 Sar Kyin (ဆားကျင်း)
-Струга VI
 麦巴村/སྨད་པ
 九龙县 བརྒྱད་ཟིལ་རྫོང།
 月華街區 Yuet Wah Street Area
@@ -11572,9 +11530,6 @@ Baжeнвapa
 深井新村 Sham Tseng Sun Tsuen
 舒安台 Shu On Terrace
 深井商業新村 Sham Tseng Commercial New Village
-Центар I
-Центар II
-Центар III
 祥降圍 Tseung Kong Wai
 DB메탈 제철산업지역
 すみれガ丘四丁目
@@ -11587,7 +11542,6 @@ Krzywucha (Стара Кривуха)
 Douar Talouat دوار تالوات
 Qorаbog'
 阿婆秧 A Po Ioeng
-Вышка I
 Oued Cheikh وادي الشيخ
 Ворсоут (Worsowut)
 Place du Centre ساحة المركز
@@ -11669,7 +11623,7 @@ Dânan دہان
 Taghit تاغيت
 Bezghoud بزغود
 Dar El Hamra الدار الحمراء
-دومان إي Domaine I
+دومان إي Domaine
 Atuifat أتوإفت
 泰禾红树林-DEF区
 泰禾红树林-ABC区
@@ -11739,8 +11693,6 @@ Yanâar انعار
 oulad herrou lathata اولاد هرّو اتحاتا
 虎地坳 Fu Tei Au
 和合石 Wo Hop Shek
-Радна зона Север III
-Радна зона Север IV
 Tahalwant تاحلوانت
 Jewani جعواني
 Jouahra الجواهرا
@@ -12929,9 +12881,9 @@ Bou Mya بوميا
 荃灣東工業區 Tsuen Wan East Industrial Area
 塔尔萨依村 تارساي
 Хъæдысæр
-烏蛟騰第3段 Wu Kau Tang Section III
-烏蛟騰第1段 Wu Kau Tang Section I
-烏蛟騰第二段 Wu Kau Tang Section II
+烏蛟騰第3段 Wu Kau Tang Section
+烏蛟騰第1段 Wu Kau Tang Section
+烏蛟騰第二段 Wu Kau Tang Section
 下七木橋 Ha Tsat Muk Kiu
 橫山腳 Wang Shan Keuk
 さくらヶ丘三丁目
@@ -13493,14 +13445,11 @@ Douar Laarab دوار العرب
 下𪤅
 柿树𡊀
 上𡊀
-Мікрорайон II
 ܒܓܕܝܕܐ / الحمدانية
 Tighanimine ثغانيمين
 Пiд Паренками
 Пiд конем
 Пiд канусяками
-Томск II
-Томск I
 一志町みのりヶ丘
 みゆきケ丘二丁目
 みゆきケ丘一丁目
@@ -15677,7 +15626,6 @@ Haffar ⵀⴰⴼⴰⵔ حفار
 呷古村ꇤꈫ
 嘉黎县 ལྷ་རི།
 ዘንዘልማ / Zenzelma
-Якімава Слабада IV
 登籠椏 Tang Lung A
 Lmgassem المكاسم
 Douar el bared Tahannaout دوار البارد تحناوت
@@ -16002,7 +15950,6 @@ Deira Al-Sahha ديرة الصحصحة
 南张芝村 남장지촌
 北张芝村 북장지촌
 东沟村 동구촌
-пл. Папа Йоан Павел II
 ቡራ Burā
 南山 Nam Shan
 崗版田 Kong Pan Tin
@@ -16111,7 +16058,6 @@ Derb Jdid      الدرب الجديد
 ፎሮ - ባረሮሔ ዶዳ/ Foro - Barrohē Dodā (old settlement) /  بأرّوحَ دُدَ - فورو
 ማዪ አላ Mai 'Ela
 ማዪ አነፊገላ Mai 'Anfiglā
-пл. Княз Александър I
 塘𤰙
 Bardasur Hights بەرزایەکانی بەردەسور
 石頭峴 Shek Tau King

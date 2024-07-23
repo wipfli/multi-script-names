@@ -35,6 +35,18 @@ public class UnicodeScriptFilter {
             while ((line = reader.readLine()) != null) {
                 Set<UnicodeScript> scriptsInLine = new HashSet<>();
 
+                if (line.endsWith(" I") ||
+                    line.endsWith(" V")) {
+                    line = line.substring(0, line.length() - 2);
+                }
+                if (line.endsWith(" II") ||
+                    line.endsWith(" IV") ||
+                    line.endsWith(" VI")) {
+                    line = line.substring(0, line.length() - 3);
+                }
+                if (line.endsWith(" III")) {
+                    line = line.substring(0, line.length() - 4);
+                }
                 // Analyze each character in the line
                 for (char ch : line.toCharArray()) {
                     UnicodeScript script = getScript(ch);
@@ -54,8 +66,8 @@ public class UnicodeScriptFilter {
 
                 // Check if the line contains more than one unique script
                 if (scriptsInLine.size() > 1) {
-                    System.out.println(line);
-                    System.out.println(scriptsInLine);
+                    // System.out.println(line);
+                    // System.out.println(scriptsInLine);
                     writer.write(line);
                     writer.newLine();
                 }
