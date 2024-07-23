@@ -35,6 +35,7 @@ public class UnicodeScriptFilter {
             while ((line = reader.readLine()) != null) {
                 Set<UnicodeScript> scriptsInLine = new HashSet<>();
 
+                // Дугинка I
                 if (line.endsWith(" I") ||
                     line.endsWith(" V")) {
                     line = line.substring(0, line.length() - 2);
@@ -56,9 +57,11 @@ public class UnicodeScriptFilter {
                 }
 
                 if (scriptsInLine.size() == 2 && scriptsInLine.contains(UnicodeScript.HAN)) {
+                    // さいたま市
                     if (scriptsInLine.contains(UnicodeScript.HIRAGANA)) {
                         continue;
                     }
+                    // 金冷シ
                     if (scriptsInLine.contains(UnicodeScript.KATAKANA)) {
                         continue;
                     }
