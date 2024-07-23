@@ -134,10 +134,8 @@ Ati أتي
 Ngoura نكورا
 فرشنا Farchana
 أدري Adré
-Pawhuska 𐓄𐓘𐓢𐓶𐓮𐓤𐓘
 Tahlequah ᏓᎵᏆ
 Vian ᏓᏄᎪᎢ
-Hominy 𐒹𐓘́͘𐓨𐓘͘𐓵𐓣͘
 Birdtown ᏥᏍᏉᎯ
 Cherokee ᏣᎳᎩ
 Paint Town ᎠᏂᏬᏘ
@@ -378,7 +376,6 @@ Djoli جلي
 德令哈市 གཏེར་ལེན་ཁ།
 合作市 གཙོས།
 霍林郭勒市 ᠬᠣᠣᠯᠢᠨ ᠭᠣᠣᠯ
-北𬇹
 Mirleft ⵎⵉⵔⵍⴼⵜ ميرلفت
 Essaouira ⵚⵚⵡⵉⵕⴰ الصويرة
 Iriba إريبا
@@ -751,7 +748,6 @@ Aït Ben Haddou ⴰⵢⵜ ⴱⵏ ⵃⴷⴷⵓ آيت بن حدو
 天后 Tin Hau
 火炭 Fo Tan
 圓洲角 Yuen Chau Kok
-石𬒔社区
 沙螺灣村 Sha Lo Wan Tsuen
 Nihit نيحيت
 Зуунмод ᠵᠠᠭᠤᠨᠮᠣᠳᠤ
@@ -1045,7 +1041,6 @@ Aourir ⴰⵡⵔⵉⵔ أورير
 Булган ᠪᠤᠯᠠᠭᠠᠨ
 Богд ᠪᠣᠭᠳᠠ
 Тэрэлж ᠲᠡᠷᠡᠯᠵᠢ
-ドームふじ基地
 Hydra ⵃⵉⴷⵔⴰ حيدرة
 Souk El Arba Du Gharb ⵙⵓⵇ ⵍⴰⵔⴱⵄⴰ ⵏ ⵍⵖⴰⵔⴱ سوق الأربعاء الغرب
 Дæллаг Карзман
@@ -1574,7 +1569,6 @@ Tinejdad ⵜⵉⵏⵊⴷⴰⴷ تنجداد
 東丫 Tung A
 斬頸洲 Cham Keng Chau
 龍落水 Lung Lok Shui
-才ノ神の武田勝頼観戦地
 Tagant ⵜⴰⴳⴰⵏⵜ تكانت
 Timoulay ⵜⵉⵎⵓⵍⴰⵢ تمولاي
 ሾኔ / Shone
@@ -2462,10 +2456,6 @@ Zrizer الزريزر
 Ounianga Kebir أونيانقا كبير
 Ounianga Serir أونيانقا صغير
 Bouznika ⴱⵓⵣⵏⵉⵇⴰ بوزنيقة
-コモアしおつ一丁目
-コモアしおつ三丁目
-コモアしおつ二丁目
-コモアしおつ四丁目
 Lassarga ⵍⴰⵙⴰⵔⴳⴰ لاساركا
 Souidani Boujemâa Mazafran سويداني بوجمعة مزفران
 Tamassint ⵜⴰⵎⴰⵙⵉⵏⵜ تاماسينت
@@ -3239,8 +3229,6 @@ Cтарая Бежица
 Kondjala كونجالا
 ᐊᒡᕕᑐᒃ Hopedale (Agvituk)
 六角村 - Liujiao Village
-孔𪢼村
-湾𡊿村
 Сантмаргац ᠰᠠᠩᠲᠤᠮᠠᠷᠭᠠᠴᠠ
 Ургамал ᠤᠷᠭᠤᠮᠠᠯ
 Adis ⴰⴷⵉⵙ أديس
@@ -3399,10 +3387,8 @@ Zag ⵥⴰⴳ الزاك
 Цагаан-Уул ᠴᠠᠭᠠᠨ ᠠᠭᠤᠯᠠ
 Сэргэлэн ᠰᠡᠷᠭᠦᠯᠡᠩ
 Ito إيتو
-下石𥕢
 Camp de Réfugiés de Iridimi مخيم إريديمي
 深井 Sham Tseng
-トウシキの鼻
 Aghbalou ⴰⵖⴱⴰⵍⵓ أغبالو
 Tiné-Djagaraba تينا
 鑽石山 Diamond Hill
@@ -4577,7 +4563,6 @@ Alfa n’Tikki ⴰⵍⴼⴰ ⵏ ⵜⵉⴽⴽⵉ
 瑪雅 Mangacun
 達卡努瓦 Tangaanua
 Al Halah - الحلاة
-𣲗源口镇
 料壆 Liu Pok
 青龍村 Tsing Lung Tsuen
 洲頭 Chau Tau
@@ -4934,8 +4919,6 @@ Adaïlou أدائلو
 Adoïla أدئلا
 Dallayi دلايي
 大槌島 (Ohzuchi-jima)
-ひばりヶ丘
-ひばりヶ丘2
 高田墈 Ko Tin Hom
 大埔 Tai Po
 泰亨 Tai Hang
@@ -4991,9 +4974,7 @@ Biffessane بيفسان
 Konjh Gidarr (کونج گیدڑ)
 ڈکٹر  سلیم کلۓ - Giddarr
 洪水橋 Hung Shui Kiu
-石𥕢
 盐源县 ꋂꂿꑤ
-𩻸魚堀
 双湖县 མཚོ་གཉིས།
 أندالي Andoli
 Garba Naba غاربا نبا
@@ -5180,7 +5161,6 @@ LEM 047 Λιβάδι Μάρμαρο 2
 Issi إيسي
 Aourir N'Ait Nasser ⴰⵡⵔⵉⵔ ⵏ ⴰⵢⵜ ⵏⴰⵙⵙⵔ أورير نايت ناصر
 Mitsamiouli ميتساميولي
-金𡊀
 Hay Saïda 2 حي سعيدة
 Imi ighzer ⵉⵎⵉ ⵉⵖⵣⵔ إمي إغزر
 Ras Bir رأس البئر
@@ -5204,7 +5184,6 @@ Ait Sidi Msaad ⴰⵢⵜ ⵙⵉⴷⵉ ⵎⵙⴰⵄⴷ
 Bab Arhiyoul ⴱⴰⴱ ⴰⵖⵢⵓⵍ
 Izakheniou ⵉⵣⴰⵅⵏⵉⵡ
 El Mouradia ⵍⵎⵓⵔⴰⴷⵢⴰ المرادية
-𫙮魚坑
 Douar Ouled Benouda دوار أولاد بنعودة
 LEM005 Ασπρόλιμνη
 LEM002 Χορταρόλιμνη
@@ -5563,9 +5542,7 @@ Jafeb ⵅⴰⴹⴻⴱ جافب
 巴青县 སྦྲ་ཆེན།
 Assgharkiss أسغركيس
 たきがしらファーム
-ファームレストランあぜ道より道
 Blida ⴱⵍⵉⴷⴰ البليدة
-想いやりファーム
 東埔 Tungpu daigaz
 海下 Hoi Ha
 上亚东乡 གྲོ་མོ་སྨད
@@ -6205,8 +6182,6 @@ Kerkouba كركوبة
 德新乡 덕신향
 老头沟镇 로두구진
 东盛涌镇 동성용진
-上石𥕢
-下石𥕢
 李埔(利浦) Libu
 आनंदवाडी (Aandwadi)
 普兰县 སྤུ་ཧྲེང་རྫོང་།
@@ -6632,7 +6607,6 @@ Ras Laksar راس القصر
 قرية كوبيتي Kobiteye Village
 Wollo ولو
 Djarabe جاراب
-𦰡溪瑶族乡
 Merzouga ⵎⴰⵔⵣⵓⴳⴰ مرزوكة
 新城 E2 區 Zona E2 das Novos Aterros Urbanos
 路環 Coloane
@@ -7051,7 +7025,6 @@ Imlil ⵉⵎⵍⵉⵍ إمليل
 تشيدي Tchidi
 雪卡/ཤོ་དགའ
 Tagante Ou Grrame ⵜⴰⴳⴰⵏⵜ ⵓ ⴳⵔⴰⵎ تگانت أوگرام
-甲賀いちごハウス
 A7合宜住宅
 Район IV-5 «Південний»
 Îles Purpuraires جزر موكادور
@@ -7244,7 +7217,6 @@ Hmidou Hay el Fath ⵃⵎⵉⴷⵓ ⴰⵥⵢⴰ ⵏ ⵍⴼⴰⵜⵃ حميدو �
 青山村 Tsing Shan Tsuen
 河田村 Ho Tin Tsuen
 Hay karrakchou ⵍⵉⵎⵓⵏ ⴽⵕⵕⴰⴽⵛⵓ حي الليمون كراكشو
-𦬬萊宅
 金阳县 ꄮꌅꑤ
 沙田頭新村 Sha Tin Tau New Village
 坑下莆 Hang Ha Po
@@ -7424,7 +7396,6 @@ Tassila-3 ⵟⴰⵙⵙⵉⵍⴰ-3 3-تاسيلا
 ཉི་མ་གྲོང་། 尼马宗
 智腦 Chi nau
 東壘 Do rei
-コシダ崩れ
 Garage Allal گراج علال
 Timtig ⵜⵉⵎⵜⵉⴳ تمتيك
 Old Airport المطار القديم
@@ -8057,7 +8028,6 @@ Lardja ⵍⴰⵔⵊⴰ العرجة
 西流江 Sai Lau Kong
 Place Adjouadi Saïd ساحة اعجودي السعيد
 吉慶圍 Kat Hing Wai
-屋けんケ浜
 老鼠田 Lou Shu Tin
 廈村市 Ha Tsuen Shi
 南邊圍 Nam Bin Wai
@@ -8139,7 +8109,6 @@ Pa Ye Taung ပရည်တောင်
 Wun Phoet ဝန်ဖို့
 Kywe Ku ကျွဲကူး
 茫崖市 མང་ནེ།
-サクラ類の展示園
 ጨፌ/ Cheffe
 地龍口 Tei Lung Hau
 獅子山上村 Lion Rock Upper Village
@@ -8460,7 +8429,6 @@ Matadjana ماتاجانا
 鹹田舊村 Ham Tin Kau Tsuen
 でんでんタウン
 Abrascico أبرشيكو
-雄和萱ケ沢字七曲り
 馬灣大街村 Ma Wan Main Street Village
 馬灣漁民新村 Ma Wan Fishermen's Village
 排棉角村 Pai Min Kok Village
@@ -8561,7 +8529,6 @@ Chelihate الشليحات
 စီကြူပါး 刺竹坝
 鋼綫灣 Telegraph Bay
 馬鞍台 Ma On Terrace
-本庄みのりファーム
 Bakara بقرة
 Mandjaffa مانجافا
 哈巴河县 قابا
@@ -8764,7 +8731,6 @@ Auk Seik အောက်ဆိပ်
 နန်းတော်ရာ Nan Daw Ya
 ကျောင်းတောင် Kyaung Taung
 达拉特旗 ᠳᠠᠯᠠᠳ
-南𨟠庄
 贡莫镇 ꈥꃀꍔ
 布基洛村ꁮꐚꇉ
 阿扭祖ꀊꑙꌀ
@@ -8793,8 +8759,6 @@ Doudoub Bolole - بلول دودوب
 Dagguîrou داغويرو
 Ambabo أمبابو
 么基;Meji
-みどりケ丘
-ひばりケ丘
 Itsamia إيتساميا
 Hamavouna همفونا
 كانكني Kangani
@@ -8824,7 +8788,6 @@ Thin gyun သင်းကျွန်း
 Gondokoro غندكرو
 ရှင်မုတ္တီး Shin Moke Tee
 ፊንጫዋ / Finchawa
-焼山ひばりヶ丘町
 林周县 ལྷུན་གྲུབ།
 山南市 ལྷོ་ཁ།
 乃东区 སྣེ་གདོང།
@@ -9095,7 +9058,6 @@ Cалаші
 呼热图淖尔苏木 ᠬᠦᠷᠢᠶᠡᠲᠦᠨᠠᠭᠤᠷ
 额吉淖尔镇 ᠡᠵᠢᠨᠠᠭᠤᠷ
 萨麦苏木 ᠰᠠᠮᠠᠢ
-つつじヶ丘
 达来苏木 ᠳᠠᠯᠠᠢ
 查干敖包镇 ᠴᠠᠭᠠᠨᠣ᠋ᠪᠣᠭ᠎ᠠ
 洪格尔苏木 ᠬᠣᠩᠭᠣᠷ
@@ -9114,9 +9076,7 @@ Ad Hashhel حي عد حشل
 鷓鴣坑 Tse Koo Hang
 坪坑 Ping Hang
 大羅口 Tai Law Hau
-さくらヶ丘
 Balbala ANCIEN بلبالا القديمة
-のぞみケ丘
 Kerfi كرفي
 新興農場 Sun Hing Farm
 东升花园A区
@@ -9199,18 +9159,14 @@ Gadien ጋዴን
 اورگونت پائین  Ūrgūnt-e Pāyān
 西草灣 Sai Tso Wan
 စစ်ဘု Sit Bu
-ローラー 滑り台
 得恩亞納 toe'uana
 بێرۆیان..بیرویان..beroyan
 ማይ ላም May Lam ماء لان
-𬶍莲街道
-𬶍江街道
 公民村 Kung Man Village
 Victoria ⴼⵉⵛⵜⵓⵔⵉⴰ فكتوريا
 Mamdooh - ممدوح
 Esfai - اِصفي
 Esfini - اصفني
-ふれあいタウン土井
 玛曲乡 དམར་ཆུ།
 Улаанхуаран ᠤᠯᠠᠭᠠᠨ ᠬᠤᠸᠠᠷᠠᠨ
 Ksar Ammar قصر عمار
@@ -9360,7 +9316,6 @@ Mairom المغرب
 多林 doeyuana
 KalogriaΚαλογρηά
 မီးလောင်အော် Mee Laung Aw
-𬇕尾村
 ᐅᐹᐘᐦᑯᓯᒋᑲᓂᕽ Pelican Narrows
 南坑 Nam Hang
 Aït Amar آيت عمر
@@ -9368,7 +9323,6 @@ Taourirt ثاوريرث
 Sehb سهب
 Ajermam ⴰⴳⴻⵍⵎⴰⵎ أجلمام
 Charrana تشارانا
-斫𥕢乡
 Sidi Ettaïb Bled Dendou ⵙⵉⴷⵉ ⵟⵉⴱ ⴱⵍⴰⴷ ⴷⵏⴷⵓ سيدي الطيبي بلاد الدندون
 新橋 San Kiu
 圍頭村輋地 Wai Tau Tsuen Che Tei
@@ -9572,9 +9526,7 @@ Tamoujjout ثموجوت
 شاه جگون  Shah Jagun
 宝泉山镇 보천산진
 東急那須リゾートThe Hills
-サンノーブル那須の里別荘地
 Qsar Lakbir ⵇⵚⵕ ⵍⴽⴱⵉⵔ قصر لكبير
-つま恋リゾート彩の郷
 焉耆镇 قاراشەھەر
 七个星镇 شىگشىن
 永宁镇 يۇڭنىڭ
@@ -9684,7 +9636,6 @@ Tanzida تانزيضة
 古勒巴格街道 گۈلباغ
 纳尔巴格街道 نارباغ
 努尔巴格街道 نۇرباغ
-西つつじケ丘美山台一丁目
 色格孜库勒乡 سېغىزكۆل
 奎牙镇 كۇيا
 普恰克其乡 پۇرچاقچى
@@ -9695,20 +9646,12 @@ Tanzida تانزيضة
 雅瓦乡 ياۋا
 英也尔乡 يېڭىيەر
 Ouaba وابا
-西つつじケ丘霧島台一丁目
-西つつじケ丘霧島台二丁目
 塔吉克阿巴提镇 تاجىكئاباد
 塔什库尔干镇 تاشقۇرغان بازىرى
 岳普湖乡 يوپۇرغا يېزىسى
 依肯苏乡 ئىككىسۇ
 波斯喀木乡 پوسكام يېزىسى
 塔合其乡 تاغارچى
-東つつじケ丘曙台四丁目
-東つつじケ丘都台一丁目
-東つつじケ丘都台二丁目
-東つつじケ丘都台三丁目
-東つつじケ丘曙台二丁目
-東つつじケ丘曙台一丁目
 塔尔塔吉克族乡 تار
 兵团农三师红旗农场 قىزىل بايراق / قىزىل جەلەك
 热斯坦街道 رەستە
@@ -9893,10 +9836,8 @@ Kaf Oum Teboul كاف أم الطبول
 哈密市 قۇمۇل
 Wadajir المدينة
 Goz Malik 1 قوز مالك
-太田さくら工業団地エリア
 ማይ ሓባር / Mai Habar
 እምበይቶ Embeyto
-つくしケ丘
 ᐗᐱᑭᑲ Wapekeka
 大江埔 Tai Kong Po
 Aseranga أسرانقا
@@ -9976,7 +9917,6 @@ al-Tanf التنف
 巴林左旗 ᠪᠠᠭᠠᠷᠢᠨ ᠵᠡᠭᠦᠨ ᠬᠣᠰᠢᠭᠤ
 巴林右旗 ᠪᠠᠭᠠᠷᠢᠨ ᠪᠠᠷᠠᠭᠤᠨ ᠬᠣᠰᠢᠭᠤ
 林西县 ᠯᠢᠨᠰᠢ ᠰᠢᠶᠠᠨ
-りんどう温泉ニュータウン
 敖汉旗 ᠠᠤᠬᠠᠨ ᠬᠣᠰᠢᠭᠤ
 宁城县 ᠨᠢᠩᠴᠧᠩ ᠰᠢᠶᠠᠨ
 Saliya Al-Baqal - ديرة سليات الباقل
@@ -9994,7 +9934,6 @@ Buaiba - ديرة البعيبه
 乌额格其牧场 ᠦᠨᠡᠭᠡᠴᠢ ᠮᠠᠯᠵᠢᠯ ᠤᠨ ᠲᠠᠯᠠᠪᠠᠢ
 嘎达苏种畜场 ᠭᠠᠳᠠᠰᠤ
 香山农场 ᠰᠢᠶᠠᠩ ᠱᠠᠨ ᠲᠠᠷᠢᠶᠠᠯᠠᠩ ᠤᠨ ᠲᠠᠯᠠᠪᠠᠢ
-売布きよしガ丘
 科尔沁左翼中旗 ᠬᠣᠷᠴᠢᠨ ᠵᠡᠭᠦᠨ ᠭᠠᠷᠤᠨ ᠳᠤᠮᠳᠠᠳᠤ ᠬᠣᠰᠢᠭᠤ
 奈曼旗 ᠨᠠᠢᠮᠠᠨ ᠬᠣᠰᠢᠭᠤ
 库伦旗 ᠬᠦᠷᠢᠶ᠎ᠡ ᠬᠣᠰᠢᠭᠤ
@@ -10092,7 +10031,6 @@ Wadi Askhar وادي اسخر
 爛泥灣 Lan Nai Wan
 得荣县 སྡེ་རོང།
 神仙灶 San Sin Tso
-さつきヶ丘団地
 大山西 Tai Shan West
 大山中 Tai Shan Central
 白鴿坑 Paak Kap Hang
@@ -10103,7 +10041,6 @@ Wadi Askhar وادي اسخر
 東坑尾村 Tung Hang Mei Tsuen
 田寮 Tin Liu
 大蠔新村 Tai Ho San Tsuen
-多古の七ツ穴
 بلوک A
 بلوک B
 بلوک C
@@ -10125,7 +10062,6 @@ K'inito قنتو
 安班巴格良繁场 ئامبانباغ ᠠᠮᠪᠠᠨ ᠪᠠᡤᡝ
 伊犁州平原林场 تۈزلەڭلىك ئورمانچىلىق مەيدانى
 山区林场 تاغ رايونى ئورمانچىلىق مەيدانى
-沖の二ツ島
 哈拉托别分场 قاراتاي تارماعى
 青河镇 شىڭگىل قالاشىعى
 阿格达拉镇 اقدالا
@@ -10468,7 +10404,6 @@ Enda-Michael Zagr Village እንዳሚካኤል ዛግር
 青衣漁民村 Tsing Yi Fishermen's Village
 青輝新村 Tsing Fai New Village
 藍田村 Lam Tin Resite Village
-すみれガ丘一丁目
 ပနပ်ငယ် Pa Nut Nge
 အလယ်ကုန်း Ale Kone
 အနောက်ပျဉ်ချောင်း Pyin Chaung (West)
@@ -10579,12 +10514,10 @@ Cité des Oranges حي البرتقال
 Sidi Ali Embarek سيدي علي مبارك
 Sidi Mohammed Chérif سيدي محمد شريف
 blancoze بلانكوز
-柳树𨟠镇
 ᑲᑎᕕᒃ Kativik
 Les Citronniers AADL - حي 832 مسكن عدل - القارص
 Cité 100 logements حي 100 مسكن اجتماعي
 cite 40 logements حي 40 مسكن
-百合が丘コミュニティ広場
 Мiст-Мармара
 Ядгаровcкий
 大生圍 Tai Sang Wai
@@ -10592,14 +10525,9 @@ cite 40 logements حي 40 مسكن
 南邊圍 Nam Bin Wai
 ᑭᕙᓪᓕᖅ Kivalliq
 ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk
-宮の本(宮ノ馬場)
 ᓃᐱᓰᐦᑯᐹᐏᔨᓃᓈᕽ Beardy's and Okemasis'
 Quartier administratif الحي الإداري
 Малинки Village
-オリヒメの丘
-ヒコボシの丘
-オトメの丘
-サミダレの丘
 Djibouti جيبوتي
 မင်းရပ် Min Yat Ward
 အောင်နန်းရပ်ကွက် Aung Nan Ward
@@ -10619,8 +10547,6 @@ Djibouti جيبوتي
 Al Bouhayra البحيرة
 寮肚村 Liu To Village
 東涌谷 Tung Chung Valley
-りんくうポート南
-りんくうポート北
 上高灘 Sheung Ko Tan
 奎文(滨海)特色产业园A区
 Тotoši - Totoshi
@@ -10881,14 +10807,6 @@ Ohn Pin Su (အုန်းပင်စု)
 Yay Kyaw Kyi (ရေကျော်ကြီး)
 Ywar Thar Yar (ရွာသာရာ)
 Tauk Tar Kone (တောက်တာကုန်း)
-许家𬮡
-高家𬮡
-丁家𬮡
-刘家𬮡
-高家𬮡
-许家𬮡
-李家𬮡
-靳家𬮡
 Nga Pi Chaung (ငပိချောင်း)
 Baw Ga Wa Di (ဘောဂဝတီ)
 Am Boung أم بونق
@@ -10959,13 +10877,6 @@ Baw Village (ဘော်ရွာ)
 额鲁特街道 ᠥᠭᠡᠯᠡᠳ
 王府街道 ᠸᠠᠩᠹᠦ᠋
 район ПО Хлеб ГК N1 линия А
-すみれガ丘二丁目
-すみれガ丘三丁目
-シンボルツリーの間
-エクボの間
-エントランス(出会いの間)
-ふじガ丘
-花屋敷つつじガ丘
 屯門59區 Tuen Mun Area 59
 屯門56區 Tuen Mun Area 56
 樂安排 Lok On Pai
@@ -11106,7 +11017,6 @@ Emberemi እምበረሚ إمبرمي
 درما Darma
 حاحالو Hahaylo
 阿公岩 A Kung Ngam
-𠙶山镇
 ዓሰብ ዓቢ عصب الكبيرة
 ዓሰብ ንእሽተይ عصب الصغيرة
 kampo sudan ካምፖ ሱዳን مخيم السودان
@@ -11241,8 +11151,6 @@ Gogne ጐኘ جوني
 ချောင်းလှ Chaung Hla
 မင်းဝင်း Min Win
 ကိုင်းကြီး Kai Gyi
-梅𱖇
-东𱖇
 ကံမော်ကြီး Kan Maw Gyi
 သရက်တပင် Tha Yet Ta Pin
 ညောင်ရှင်ကုန်း Nyaung Shin Kone
@@ -11254,9 +11162,6 @@ Gogne ጐኘ جوني
 မဒေါ Ma Daw
 ဆင်ထိုးငယ် Sin Hto Nge
 ဘယက်တောင် Ba Yet Taung
-南ひばりガ丘一丁目
-南ひばりガ丘二丁目
-南ひばりガ丘三丁目
 Miakhel kalay میاخیل کلي
 莆上村 Po Sheung Tsuen
 圍內村 Wai Loi Tsuen
@@ -11532,7 +11437,6 @@ Baжeнвapa
 深井商業新村 Sham Tseng Commercial New Village
 祥降圍 Tseung Kong Wai
 DB메탈 제철산업지역
-すみれガ丘四丁目
 Krzywucha (Стара Кривуха)
 ᑳ ᒥᓂᐢᑎᑯ ᒥᓇᐦᐃᑯᐢᑳᕽ Cumberland House Cree Nation
 ᐅᐸᐢᑿᔭᐠ Opaskwayak Cree Nation
@@ -11569,7 +11473,6 @@ Beni Ouaklene بني وكلان
 Moudjou مودجو
 El Onsser العونصر
 融侨外滩-B区
-白沙𬇕街道
 鲁夏村/ཀླུ་ཤར
 分流村 Fan Lau Tsuen
 銅鑼灣 Causeway Bay
@@ -11776,7 +11679,6 @@ Ali ben yassine علي بن ياسين
 作壆坑新村 Tsok Pok Hang San Tsuen
 鹽田壆 Yim Tin Pok
 39-ы км M11
-𣕎头
 СмолVille
 將軍澳村 Tseung Kwan O Village
 安多县 ཨ་མདོ་རྫོང།
@@ -11826,7 +11728,6 @@ Ali ben yassine علي بن ياسين
 美新玫瑰庄园-B区
 春江花园-A区
 深灣 Sham Wan
-蒙𨟠
 茅坪新村 Mau Ping New Village
 黃竹山新村 Wong Chuk Shan New Village
 昂平新村 Ngong Ping New Village
@@ -11838,27 +11739,10 @@ Ali ben yassine علي بن ياسين
 电尕镇 སྟེང་ཀ
 拉卜楞镇 བླ་བྲང་།
 大輋陂 Tai Che Pei
-さつきヶ丘
 大湖角 Tai Wu Kok
 觀塘半山 Kwun Tong Mid-Levels
 Masafi مسافي
 Sharm - شرم
-西つつじケ丘美山台二丁目
-西つつじケ丘大山台二丁目
-西つつじケ丘大山台一丁目
-西つつじケ丘雲仙台二丁目
-西つつじケ丘雲仙台一丁目
-西つつじケ丘五月台二丁目
-西つつじケ丘五月台一丁目
-東つつじケ丘曙台三丁目
-南つつじケ丘大葉台二丁目
-南つつじケ丘大葉台一丁目
-南つつじケ丘桜台
-南つつじケ丘桜台五丁目
-南つつじケ丘桜台四丁目
-南つつじケ丘桜台三丁目
-南つつじケ丘桜台二丁目
-南つつじケ丘桜台一丁目
 Al Seer - الصير
 Dafan Al Khor - دفان الخور
 Dahan - دهان
@@ -12472,8 +12356,6 @@ Bni Oukil بني وكيل
 生活F区
 巴彦宝力高嘎查 ᠪᠠᠶᠠᠨᠪᠤᠯᠠᠭ
 乌兰章古嘎查 ᠤᠯᠠᠭᠠᠨ ᠵᠠᠩᠭᠤᠤ
-孙家
-马𨟠村
 大坪舊村 Tai Peng Kau Tsuen
 高格斯台嘎查 ᠭᠣᠭᠣᠰᠲᠣᠢ
 葫芦斯台嘎查 ᠬᠤᠯᠤᠰᠤᠲᠠᠢ
@@ -12657,8 +12539,6 @@ Bni Oukil بني وكيل
 乌兰图嘎嘎查 ᠤᠯᠠᠭᠠᠨ ᠲᠤᠭ
 宏图嘎查 ᠬᠤᠨᠲᠤ
 博日和斯台嘎查 ᠪᠣᠷᠣ ᠬᠤᠣᠰᠲᠠᠢ
-賑岡町ゆりケ丘
-小𡌶田村
 Мэкъуэп1э Благъэ (Yakın Otluk )
 觀塘市中心 Kwun Tong Town Centre
 牛頭角上 Upper Ngau Tau Kok
@@ -12761,7 +12641,6 @@ Al Boustane حي البستان
 仲巴村/རྫོང་པ
 Oulad Mansour أولاد منصور
 叶楼 (Yelou)
-𡌶垌村
 火炭工業區 Fo Tan Industrial Area
 落路下 Lok Lo Ha
 火炭半山 Fo Tan Mid-Levels
@@ -12769,9 +12648,6 @@ Oulad Mansour أولاد منصور
 桂地 Kwei Tei
 木宗村/མོ་རྫོང
 Goud Qala Mangal ګډ قلعه منګل
-あかねヶ丘三丁目
-あかねヶ丘二丁目
-あかねヶ丘一丁目
 玉松村/ཡུལ་གསུམ
 大渡卡/རྟ་ཐོག་ཁ
 果登村/གོག་ལྡེམ
@@ -12807,37 +12683,11 @@ oulad al ghazi أولاد الغازي
 大埔中 Tai Po Central
 Essafsaf الصفصاف
 門柳頸 Mun Lau Keng
-もみじケ丘二丁目
-もみじケ丘一丁目
-もみじケ丘三丁目
-さつきケ丘
-東つつじケ丘一丁目
-東つつじケ丘三丁目
-西つつじケ丘二丁目
-東つつじケ丘二丁目
-西つつじケ丘三丁目
-西つつじケ丘一丁目
-西つつじケ丘四丁目
 岔哈泉村 ساقابۇلاق
-ひばりケ丘
-犬ころしバ
-せんバ切原
-つつじヶ丘
-旭ケ丘町山の手
-ひばりヶ丘一丁目
-ひばりヶ丘二丁目
-さつきケ丘二丁目
-さつきケ丘一丁目
-鴨方町みどりケ丘三丁目
-鴨方町みどりケ丘二丁目
-鴨方町みどりケ丘四丁目
-鴨方町みどりケ丘一丁目
 Tawngat طاونكاط
-ひばりケ丘
 Lalla Halima el Morjia لَلاَّ حليمة المرجية
 S字峡
 Кресiвський
-イカイワの肩
 Bcharir بشارير
 Ouled Slimane اولاد سليمان
 Ouachene Fouaga اوشاون لفوقى
@@ -12858,10 +12708,6 @@ Dehamna دحامنة
 龍尾 Lung Mei
 大美督 Tai Mei Tuk
 船灣 Plover Cove
-もえぎヶ丘三丁目
-もえぎヶ丘二丁目
-もえぎヶ丘一丁目
-字九左エ門廻り
 摩星嶺 Mount Davis
 太平山 Tai Ping Shan
 柴灣東工業區 Chai Wan East Industrial Area
@@ -12886,10 +12732,6 @@ Bou Mya بوميا
 烏蛟騰第二段 Wu Kau Tang Section
 下七木橋 Ha Tsat Muk Kiu
 橫山腳 Wang Shan Keuk
-さくらヶ丘三丁目
-さくらヶ丘二丁目
-さくらヶ丘一丁目
-ますみヶ丘
 長沙灣工業區 Cheung Sha Wan Industrial Area
 灣仔峽 Wan Chai Gap
 馬己仙峽 Magazine Gap
@@ -12909,9 +12751,6 @@ Bou Mya بوميا
 壽臣山 Shouson Hill
 南朗山 Nam Long Shan
 大樹灣 Tai Shue Wan
-新三郷ららシティ三丁目
-新三郷ららシティ二丁目
-新三郷ららシティ一丁目
 大浪灣 Tai Long Wan
 Урочище Лемський лiс
 Урочище Озiрний
@@ -12927,21 +12766,6 @@ Bou Mya بوميا
 定昌村/ལྡིང་ཁྲོག
 粉嶺北 Fanling North
 ایستگاه CGS شاهین دژ
-ユーカリが丘七丁目
-ユーカリが丘六丁目
-ユーカリが丘五丁目
-ユーカリが丘四丁目
-ユーカリが丘三丁目
-ユーカリが丘二丁目
-ユーカリが丘一丁目
-南ユーカリが丘
-西ユーカリが丘七丁目
-西ユーカリが丘六丁目
-西ユーカリが丘五丁目
-西ユーカリが丘四丁目
-西ユーカリが丘三丁目
-西ユーカリが丘二丁目
-西ユーカリが丘一丁目
 白筆山 Pak Pat Shan
 大潭篤 Tai Tam Tuk
 康西瓦 كەڭشىۋەر
@@ -13030,7 +12854,6 @@ Bou Mya بوميا
 景龙Z中心
 庞公A2
 ᖃᒪᓂᑦᑐᐊᖅ Baker Lake
-四ツ谷自治会こども広場
 Abdoun-عبدون
 尤勒滚加依村 يۇلغۇنجاي
 垴阿巴提塔吉克民族乡 ناۇئاباد / نوۇئوبود
@@ -13089,12 +12912,6 @@ Abdoun-عبدون
 藏桂乡 زاڭگۇي
 托格拉克塔村 توغراقتار
 桑株村 سانجۇ
-つくしケ丘六丁目
-つくしケ丘五丁目
-つくしケ丘四丁目
-つくしケ丘三丁目
-つくしケ丘二丁目
-つくしケ丘一丁目
 达里格村 تاللىق
 阔纳吐格曼村 كونا تۈگمەن
 科克塔格村 كۆكتاغ
@@ -13222,11 +13039,8 @@ Abdoun-عبدون
 阿亚格乔达村 ئاياغ چودا
 尕孜恰喀村 غازچاقار
 三十里营房 شىسەنلى يىڭفاڭ
-大井町かすみケ丘
 松樹尾 Chun Su Mei
 花城 Cidade das Flores
-もみじヶ丘
-つつじヶ丘
 東涌東 Tung Chung East
 東涌北 Tung Chung North
 東涌西 Tung Chung West
@@ -13236,7 +13050,6 @@ Abdoun-عبدون
 青衣南 Tsing Yi South
 青衣市中心 Tsing Yi Town Centre
 青衣北 Tsing Yi North
-𡌶垌村
 銀礦灣 Silvermine Bay
 梅窩市中心 Mui Wo Town Centre
 Iâallayen إعلاين
@@ -13248,45 +13061,22 @@ Beni Amyir بني اعمير
 Aounout أونوت
 天峻县 ཐེམ་ཆེན།
 元朗創新園 Yuen Long INNOPARK
-𡌶塘村
 Dhab Khushal ڈھاب خوشحآل
 羊达库都克道班 يانتاققۇدۇق‎
-那須野ヶ原自治会 こもれびの郷別荘地
 Gouaret Meharza الكوارت مهارزة
 Gouaret Mechahia كوارت مشاهلة
 Slaouiyine سلاويين
 Chaouia الشاوية
 魚角 Yue Kok
 水邊圍 Shui Pin Wai
-みどりケ丘町
-ひばりケ丘町
-つつじケ丘町
 和生圍 Wo Shang Wai
 永兴岛滨海新区A区
-あじさいヶ丘一丁目
-あじさいヶ丘三丁目
-あじさいヶ丘二丁目
-みずきケ丘四丁目
-みずきケ丘三丁目
-みずきケ丘二丁目
-みずきケ丘一丁目
 东湖街道 شەرقىي كۆل
 西域大道街道 غەربىي يۇرت يولى
 西公园街道 غەربىي باغچاسى
 迎宾大道街道 مەرھابا يولى
 兵团八十七团 87-تۇەن مەيدانى
 牛頭角工業區 Ngau Tau Kok Industrial Area
-むさしヶ丘三丁目
-むさしヶ丘二丁目
-むさしヶ丘一丁目
-むさしヶ丘四丁目
-つつじケ丘六丁目
-つつじケ丘五丁目
-つつじケ丘四丁目
-つつじケ丘三丁目
-つつじケ丘二丁目
-つつじケ丘一丁目
-那須リゾート事業組合　松の倉別荘地
 哈尼喀塔木乡 خانقىتام
 塔里木镇 تارىم
 阿克吾斯塘乡 ئاقئۆستەڭ
@@ -13313,7 +13103,6 @@ Buuhoodle بووهودل ቦሆትለ
 مسکن مهر فاز دو بلوک B
 مسکن مهر فاز دو بلوک A
 الرحبهalrahbah
-𡌶湖村
 حي برددة вυя∂α∂α
 Douar Laarab دوار العرب
 地点F
@@ -13321,138 +13110,11 @@ Douar Laarab دوار العرب
 舊李屋村 Kau Lee Uk Tsuen
 田心 Tin Sum
 حي برددة вυя∂α∂α
-杨梅𪤅
-程家堨上𡊀
-老鼠𡊀
-北𡊀坞
-下由𡊀
-光草𡊀
-高椅𡊀
-石𡊀
-后朱𪤅
-𡊀上
-白石𡊀
-竹𡊀山
-松林𡊀
-社𡊀
-蕉𡊀
-米坑𡊀
-高椅𡊀
-前山𡊀
-凤歧𪤅
-松毛𪤅
-梨壁𡊀
-洪𡊀坞
-梅木𡊀
-𡊀里
-金竹𡊀
-千户𡊀
-大𡊀
-大堨𡊀
-铁斧𡊀
-𪤅里
-和尚𡊀
-上𡊀
-临川外𡊀
-东锣𡊀
-展坞𡊀
-里山𡊀
-盘苏下𡊀
-中泗𡊀
-七𡊀
-百罗𡊀
-外𪤅
-程家𡊀
-毛𡊀
-中鲍家𡊀
-上杨梅𡊀
-碧𡊀
-毛𡊀
-中心𡊀
-下毛𡊀
-下村𡊀
-外鲍家𡊀
-铁斧𡊀
-汪家𡊀
-百罗𡊀
-汪沙𡊀
-中𡊀
-石头𪤅
-柿树𡊀
-七贤𡊀
-汪家𡊀
-中𪤅
-𪤅堀
-交椅𪤅
-下石𡊀
-外𪤅
-柴口𡊀
-元正𡊀
-西罗𡊀
-上白石𡊀
-铁岭𡊀
-中𡊀
-王家𡊀
-天顺𡊀
-南下𡊀
-盘苏上𡊀
-牛坑𡊀
-周家𡊀
-上由𡊀
-七公𡊀
-周腾𡊀
-泗水𡊀
-金竹𡊀
-枫树𡊀
-虫𡊀
-外上𪤅
-大𡊀
-联盟外𡊀
-菖蒲𡊀
-朱公𡊀
-淡竹𡊀
-𪤅里
-西坡𡊀
-榧树𡊀
-上𡊀
-上𡊀
-古城𡊀
-上毛𡊀
-里鲍家𡊀
-下杨梅𡊀
-腰𡊀
-柿树𡊀
-毛𡊀
-蒙光𡊀
-新门毛𡊀
-博文𡊀
-马鞍𡊀
-外𡊀
-扑箕𡊀
-湾龙𡊀
-双源𡊀
-上𪤅
-黄枝𡊀
-牛角𪤅
-梨木𡊀
-到中𡊀
-上石𡊀
-皂𡊀
-高𡊀
-里𪤅
-里𡊀
-外山𡊀
-下𪤅
-柿树𡊀
-上𡊀
 ܒܓܕܝܕܐ / الحمدانية
 Tighanimine ثغانيمين
 Пiд Паренками
 Пiд конем
 Пiд канусяками
-一志町みのりヶ丘
-みゆきケ丘二丁目
-みゆきケ丘一丁目
 Idsoulyène إدسوليين
 Tala Youssef تـالا يــوسف
 Izaouiaten مدشر ايزاوياتن
@@ -13560,13 +13222,6 @@ El Khaoucha الخوشة
 Houara هوارة
 Chraka شراقة
 洛瓦寨 FIX?
-ひかりヶ丘七丁目
-ひかりヶ丘六丁目
-ひかりヶ丘五丁目
-ひかりヶ丘四丁目
-ひかりヶ丘三丁目
-ひかりヶ丘二丁目
-ひかりヶ丘一丁目
 Yawmzir قرية يومزير
 Imessaoudène إمسعودن
 Boumaad بومعاد
@@ -13593,11 +13248,6 @@ Azghar أزغار
 ᐃᑎᔾᔭᖃᑦᑕᖅ Itijjaqattaq
 ᐊᒪᕈᕐᑕᓕᔮᓗᒃ Amarurtalijaaluk
 ᑭᓴᕐᕕᑯᓗᒃ Kisarvikuluk
-ひばりケ丘五丁目
-ひばりケ丘四丁目
-ひばりケ丘三丁目
-ひばりケ丘二丁目
-ひばりケ丘一丁目
 ᐛᔅᑲᐃᑭᓂᔅ Fort Mackenzie
 修頓 Southorn
 銀線灣 Silverstrand
@@ -13620,13 +13270,11 @@ Iршавський
 ᒨᓱᓵᑲᐦᐃᑲᓂᓰᓯᕽ Hall Lake
 ᒪᐢᑫᑯᓵᑲᐦᐃᑲᓂᕽ Muskeg Lake
 河南县 ᠾᠧᠨᠠᠨ
-林角𡊀
 ᑮᐢᑲᒋᐚᐣ Kiskaciwan
 ᓃᒣᑲᐢ ᓵᑲᐦᐃᑲᐣ Nemekus Sakahikan
 ᓰᐦᑲᑎᓭᐏᐣ ᓵᑲᐦᐃᑲᐣ Sokatisewin Sakahikan
 新城 B 區 Zona B de Novos Aterros Urbanos
 ᓂᓯᒐᐚᔭᓯᕽ Nelson House
-深草スゝハキ町
 26/2-R چک
 27/2-R چک
 28/2-R چک
@@ -13799,9 +13447,6 @@ Abobo/አቦቦ
 Яргайтын богино ᠢᠷᠭᠠᠶᠢᠲᠤ ᠶᠢᠨ ᠪᠣᠭᠣᠨᠢ
 Жигжидийн зуслан ᠵᠢᠭᠵᠢᠳ ᠦᠨ ᠵᠤᠰᠠᠯᠠᠩ
 Өвөр гүнтийн зуслан ᠥᠪᠥᠷ ᠭᠦᠩᠲᠦ ᠶᠢᠨ ᠵᠤᠰᠠᠯᠠᠩ
-沙𬇕村
-𬇕欧村
-沙木𬇕村
 17/9 R چک
 8/9 R چک
 9/9 R چک
@@ -13857,7 +13502,6 @@ Oulad Ayoub اولاد أيوب
 Oulad Meriem أولاد المريم
 Bab Nessara باب النصارى
 Tanout Beni Chïeb تانوت بني شايب
-𥫤坑村
 Jleila جلايلة
 Douayze الدوايز
 Ouled El Gadi اولاد الكاضي
@@ -13889,13 +13533,10 @@ Oulad Abbou أولاد عبو
 Douar El greb Dghadgha دوار لكرب دغادغة
 Kannine قنين
 Oulad Ali أولاد علي
-𡚴原
 Oulad Ali Nssaba اولاد علي نسابة
 Tizi Masta تيزي مستا
 水木清华Ⅱ期·润园
-毕家𨟠中村
 西华农场C650坊队
-韩家𨟠
 Ighran إغران
 Big Cove ᎪᎸᏅᏱ
 Wolftown ᏩᏲᎯ
@@ -13920,9 +13561,6 @@ Beni Wal بني وال
 Oulad Said Laarrar اولاد اسعيد العرعار
 Oulad Ramdane اولاد رمضان
 大浪 Tai Long
-北𣬛郎庙
-𣬛郎庙
-南𣬛郎庙
 川龍 Chuen Lung
 布黑阿莫 ꁧꉈꀋꃀ
 格依村 ꇮꑳꇁꄿ
@@ -13940,7 +13578,6 @@ Oulad Ramdane اولاد رمضان
 乌依提ꃮꀀꄜ
 尔伍ꇓꃴ
 嘎岭ꈜꅪ
-沙𬇕社区
 Aït Hammou Haddou ‍ايث حمو حدو
 紅磡 Hung Hom
 水嶺磡 Shui Leng Hom
@@ -14060,7 +13697,6 @@ Bouyafar بويافر
 Douar Sidi Moussa دوار سيدي موسى
 Afra أفرا
 塘尾 Tong Mi
-ミズキの谷
 第1L區 Area 1L
 第1K區 Area 1K
 利園山 East Point Hill
@@ -14409,8 +14045,6 @@ Avila Sky ЖК
 14 UCC چک
 よこてイースト
 逐鹿 veoveoana
-毕家𨟠东村
-毕家𨟠西村
 a  پٹھان والا
 米洋 veio
 尼亞湖 niavahʉ
@@ -14870,7 +14504,6 @@ Tadouzte تدوزت
 Injaren إنجارن
 Tazniqt تازنيقت
 歐羅有機農場 AuLaw Organic Farm
-グミの森
 ဟွေဪ 回俄
 ယောင်ပန်း 永邦
 ဝမ်ဟုန် 万宏
@@ -14942,11 +14575,6 @@ Cité Police 40 Logements حي الشرطة 40 مسكن
 坳背灣 Au Pui Wan
 Cité Sonelgaz 18 Logements حي سونلغاز 18 مسكن
 ᒥᑭᓯᐘᒌᕽ Red Pheasant
-小金きよしケ丘五丁目
-小金きよしケ丘四丁目
-小金きよしケ丘三丁目
-小金きよしケ丘二丁目
-小金きよしケ丘一丁目
 ᑮᓯᑳᐘᒑᕽ Day Star
 ᑲᐚᐦᑲᑐᐢ Kawacatoose
 ᐳᓵᑲᓇᒌᕽ George Gordon
@@ -15056,20 +14684,6 @@ Talamuksa تلموكسة كتامة
 زاوية مولاي عبد الرحمن zaoueyat moulay abderrhman
 أسطار  astar
 """БАЙНАЛМИНАЛЧИ"" Mahalla № 29"
-ニセコひらふ5条3丁目
-ニセコひらふ5条2丁目
-ニセコひらふ5条1丁目
-ニセコひらふ4条3丁目
-ニセコひらふ4条2丁目
-ニセコひらふ4条1丁目
-ニセコひらふ3条
-ニセコひらふ2条2丁目
-ニセコひらふ2条3丁目
-ニセコひらふ2条1丁目
-ニセコひらふ1条4丁目
-ニセコひらふ1条3丁目
-ニセコひらふ1条2丁目
-ニセコひらふ1条1丁目
 Fビレッジ
 十二笏 Shap Yi Wat
 呼和托哈种畜场 كۆكتوخا ᠬᠥᠬᠡᠲᠣᠬᠣᠢ
@@ -15470,7 +15084,6 @@ Caqiibo العَقيبة
 عبدور Abdur
 竹siao井
 Vieille Tixeraïne تيقصراين القديمة
-㹧𱮒湖村
 长白镇 장백진
 和春洞 화춘동
 백학IC
@@ -15492,7 +15105,6 @@ Vieille Tixeraïne تيقصراين القديمة
 东萨依拉特村 شەرقىي سايلات
 牛欄窩 Ngau Lan Wo
 木垒镇 موري
-𧒽岗山
 광명교IC
 朝阳街道 چاۋياڭ
 梨香街道 نەشپۇتزار
@@ -15592,7 +15204,6 @@ Supalai Prima Villa (เเยกท่าท้อน)
 მარის არხის I დასახლება
 阿克陶镇 ئاقتو بازىرى / ﺍﻗﺘﻮﻭ بازارى
 AADL 1200 Sidi Slimane حي عدل 1200 سيدي سليمان
-ニセコひらふ5条4丁目
 哈拉盖图农牧场 ᠬᠠᠯᠠᠭᠠᠢᠲᠤ
 贺斯格乌拉牧场 ᠬᠡᠰᠡᠭᠠ᠋ᠭᠤᠯᠠ
 Поле A
@@ -15614,7 +15225,6 @@ AADL 400 Mainis عدل 400 ماينيس
 朝鲁吐林场 ᠴᠢᠯᠠᠭᠤᠲᠤ ᠣᠢ ᠶᠢᠨ ᠲᠠᠯᠠᠪᠠᠢ
 伊胡塔林场 ᠶᠡᠬᠡᠲᠠᠯ᠎ᠠ
 乌旦塔拉林场 ᠤᠳᠠᠨᠲᠠᠯ᠎ᠠ
-緑のテラス
 铁南 철남
 奶头山村 내두산촌
 Akodongole አኮዶንጎሌ
@@ -15706,7 +15316,6 @@ Smaidia 1 ⵚⵎⴰⵉⴷⵉⵢⴰ 1 الصمايدية ١
 ရှောက်မင်ရှန်း 小明山
 တုံကျက် 董洁
 ဟိုလီ 户里
-もみじヶ丘団地
 柴灣角 Chai Wan Kok
 ဆီဟုတ် 四六乡
 မိုင်းယွန်း 勐阮
@@ -15753,158 +15362,7 @@ Bou Khalfa بو خلفة
 大園口 Tai Yuen Hau
 晒魚石 Sai Yue Shek
 泥涌 Nai Chung
-𣵦沽
-小𣵦
-傅家𫮮
-前𫮮
-桃树𫮮
-百家𫮮
-凌家𫮮
-桃花𫮮
-牛𮳼
-齐𨟠
-𨟠羊口
-赵王𨟠
-何𨟠
-花𨟠
-下𨟠
-垛𨟠
-朱家𨟠
-傅𨟠段家
-傅𨟠苏家
-傅𨟠张家
-孙家𨟠
-邢家𨟠
-东于𨟠
-西于𨟠
-小孙𨟠
-北𨟠
-帐房𨟠
-后𨟠
-前𨟠
-𨛍里
 နမ့်တောင်း 南岛
-上村𱖇
-田𱖇
-东村𱖇
-王𱖇坞
-王𱖇
-田𱖇
-巧𱖇
-二塘𱖇
-亭𱖇
-田𱖇
-田𱖇
-麒麟𱖇
-梓舍𱖇
-𡋟里
-𤱶桥
-𥕐臼
-𥕐上
-𥕐上
-𥕐背
-𥕐圩坑
-黄𪿖坑
-磨麦𪿖
-𪿖门
-𪿖岩壳下
-纱帽𪿖
-仙人𪿖
-仓库𪿖
-𪿖头背
-𪿖壁下
-𪿖头背
-𪿖头
-鸽儿𪿖
-𪿖壁下
-平𪿖岗
-砌𪿖村
-𪿖石畈
-黄𪿖源口
-白𪿖下
-黄𪿖淤
-白𪿖下
-社𪿖前
-乌𪿖根
-𪿖壳潭
-黄𪿖
-𪿖背
-内黄𪿖
-黄𪿖
-𪿖上
-吊𪿖
-大处𪿖
-𪿖下
-盖𪿖
-乌𪿖
-黄𪿖里
-𪿖上后
-白𪿖沿
-𪿖板坑
-神𪿖坑
-黄𪿖源
-社𪿖前
-白𪿖下
-𪿖头嘴
-天师𪿖
-外黄𪿖
-黄𪿖口
-𪿖上
-𪿖下
-𪿖埠
-尖𥕍
-焦𥕍
-道士𤱙
-上𱖎
-下𱖎
-江𡓦头
-水江𡓦
-宋家𡓦
-沙𡓦
-大𡓦
-小𡓦
-南叉𡓦
-谢家𡓦
-凌家𡍲
-潘家𡍲
-徐家𡓦
-茶𡍲岗
-许家𡍲
-茅家𡍲
-方家𡍲
-下郭𡍲
-蒲家𡍲
-后虞𡍲
-张家𡍲
-上茶𡍲
-下茶𡍲
-如意𡍲
-林家𡍲
-李家𡍲
-李家𡍲
-屠家𡍲
-虞家𡍲
-姜𡍲
-郑家𡍲
-沈家𡓦
-𪈼尔蓬
-烟墩𡎴
-田𡎴
-松柏𡎴
-𡎆头
-𡑒垟
-𡑒垟隔
-小𡐋
-后𡐋
-𡎴后
-𠁆塘
-腾𱜀
-长𱜀头
-园𡓦
-𢆓水岭
-𮭁鸭桥
-𱴑碛
-郭𱖇
 ЖК «Madison Gardens»
 大洞 Tai Tung
 企嶺下 Kei Ling Ha
@@ -16058,7 +15516,6 @@ Derb Jdid      الدرب الجديد
 ፎሮ - ባረሮሔ ዶዳ/ Foro - Barrohē Dodā (old settlement) /  بأرّوحَ دُدَ - فورو
 ማዪ አላ Mai 'Ela
 ማዪ አነፊገላ Mai 'Anfiglā
-塘𤰙
 Bardasur Hights بەرزایەکانی بەردەسور
 石頭峴 Shek Tau King
 灣仔 Wan Tsai
@@ -16067,8 +15524,6 @@ Bardasur Hights بەرزایەکانی بەردەسور
 包籬仔 Pao Nei Tsai
 རླུང་གདོང་། 隆冬
 མིག་ནོར། 米龙
-萝竹𪢼村
-大𪢼村
 鱉磡沙 Ngau Hom Sha
 竹園 Chuk Yuen
 南蛇笏 Nam She Wat
@@ -16116,14 +15571,12 @@ BIR G JDIDA بئر جديدة
 မိုင်းဟွမ် 勐洪
 ရှောက်ဟော် 小河
 လုံထန် 龙塘
-Perumahan SP Land 🤣
 छना (Chhanaa) पाली
 十五間 Fifteen Houses
 Place El Hansali     ساحة الحنصلي
 明俊村-명준촌
 Hay Er-Rjila           الرجيلة
 刘厝埭X巷X横X号
-Mangoase 🥭
 Cité Portugaise             الحي البرتغالي
 Panorama             حي بانوراما
 Hay Assaadiyine           حي السعديين
@@ -16145,7 +15598,6 @@ Bet Homeir ቤት ሖሜር
 东新 동신
 下东沟 하동구
 小合屯 소합툰
-しお彩テラス
 Κουκουνικάδες Avliotes
 Id Yassine إد ياسين
 Id Hamou إدحمو
@@ -16161,7 +15613,6 @@ Ait Bouloumane أيت بولمان
 Άγιος Κασσιανός - Kafesli
 实现村 실현촌
 Ouled Hassan Labraoute أولاد حسان البراوط
-+ −  🛈 Esri Satellite opacity  Macrostrat Geology opacity  100 m 500 ft
 菜園村 Tsoi Yuen Tsuen
 橋西 Kiu Sai
 七十四团场 74-تۋان الاڭىنداعى
@@ -16209,7 +15660,6 @@ Assam عصام
 灰窰灣 Fui Yiu Wan
 流浮沙 Lau Fau Sha
 124团一连 124-تۋان 1-ليان
-はねうまブルーベリー園
 Anamer أنامر
 Achbarou أشبارو
 Chehida الشهيدة
