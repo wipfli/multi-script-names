@@ -211,7 +211,7 @@ public class UnicodeScriptFilter {
                 counter.put(scriptsInLine.size(), counter.getOrDefault(scriptsInLine.size(), 0) + 1);
 
                 // Check if the line contains more than one unique script
-                if (scriptsInLine.size() > 2) {
+                if (scriptsInLine.size() > 1) {
                     // if (scriptsInLine.contains(UnicodeScript.TIFINAGH) || 
                     // scriptsInLine.contains(UnicodeScript.MONGOLIAN) || 
                     // scriptsInLine.contains(UnicodeScript.ETHIOPIC)) {
