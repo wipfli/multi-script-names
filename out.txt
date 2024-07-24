@@ -1109,9 +1109,6 @@ Bab Doukkala ⴱⴰⴱ ⴷⵯⴽⴽⴰⵍⴰ
 Σινάoρος
 Ait Baha ⴰⵉⵜ ⴱⴰⵀⴰ ايت باها
 Tighmert ⵜⵉⵖⵎⴰⵔⵜ تيغمرت
-Бардабашка-I
-Краснояр-I
-Краснояр-II
 䃟頭 San Tau
 深屈 Sham Wat
 ሳሪስ አቦ አካባቢ / Saris Abo Area
@@ -1445,7 +1442,6 @@ Anfoud انفود
 Cité Suisse ⵙⵉⵜⵉ ⵙⵡⵉⵙ سيتي سويس
 Anza ⴰⵏⵣⴰ أنزا
 Marina d'Agadir ⵎⴰⵔⵉⵏⴰ ⴰⴳⴰⴷⵉⵔ مارينا أگادير
-Бардабашка-II
 Boutbane بوتبان
 Id Raisse إد الرايس
 Tioughza ⵜⵉⵡⵖⵣⴰ تيوغزة
@@ -2065,8 +2061,6 @@ Kissimi كسيمي
 Moïssala مويسالا
 Мөрөн ᠮᠥᠷᠡᠨ
 Гурванбаян ᠭᠤᠷᠪᠠᠨᠪᠠᠶᠠᠨ
-Егерский-I
-Егерский-II
 Тэшиг ᠲᠡᠰᠢᠭ
 Тэс ᠲᠡᠰ
 Moulay Brahim ⵎⵓⵍⴰⵢ ⴱⵕⴰⵀⵉⵎ مولاي إبراهيم
@@ -9799,7 +9793,6 @@ Ouargazène اورغازن
 西山乡 غەربىتاغ
 南朗 Nam Long
 北朗 Pak Long
-Сусуя-I
 茨林圍 Pátio do Espinho
 འདམ་ལྗོངས། 当江
 若羌镇 چاقىلىق بازىرى
@@ -10867,7 +10860,6 @@ Khor Ambado خور عمبادو
 小欖新村 Siu Lam San Tsuen
 黑水县 ཁྲོ་ཆུ་རྫོང།
 圍仔村 Wai Tsai Tsuen
-Теремки-III
 葵涌大坑尾村 Kwai Chung Tai Hang Mei Tsuen
 六合村 Luk Hop Village
 Baw Village (ဘော်ရွာ)

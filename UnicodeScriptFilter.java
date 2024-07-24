@@ -30,7 +30,8 @@ public class UnicodeScriptFilter {
         if (result.endsWith("/") || 
         result.endsWith("-") || 
         result.endsWith(";") || 
-        result.endsWith("(")) {
+        result.endsWith("(") ||
+        result.endsWith(",")) {
             result = result.substring(0, result.length() - 1);
             result = result.strip();
         }
@@ -78,7 +79,6 @@ public class UnicodeScriptFilter {
         return result;
     }
 
-    // 
     public static boolean hasRepeatedScript(List<String> segments) {
 
         Set<UnicodeScript> scripts = new HashSet<>();
@@ -194,15 +194,21 @@ public class UnicodeScriptFilter {
 
                 // Дугинка I
                 if (line.endsWith(" I") ||
-                    line.endsWith(" V")) {
+                    line.endsWith("-I") ||
+                    line.endsWith(" V") ||
+                    line.endsWith("-V")) {
                     line = line.substring(0, line.length() - 2);
                 }
                 if (line.endsWith(" II") ||
+                    line.endsWith("-II") ||
                     line.endsWith(" IV") ||
-                    line.endsWith(" VI")) {
+                    line.endsWith("-IV") ||
+                    line.endsWith(" VI") ||
+                    line.endsWith("-VI")) {
                     line = line.substring(0, line.length() - 3);
                 }
-                if (line.endsWith(" III")) {
+                if (line.endsWith(" III") ||
+                    line.endsWith("-III")) {
                     line = line.substring(0, line.length() - 4);
                 }
                 // Analyze each character in the line
@@ -262,3 +268,66 @@ public class UnicodeScriptFilter {
         }
     }
 }
+
+// Βατóς
+// [LATIN, GREEK]
+//   "Βατóς"
+
+// Mετόχι
+// [LATIN, GREEK]
+//   "Mετόχι"
+
+// Уæллаг Захъхъор
+// [LATIN, CYRILLIC]
+//   "Уæллаг Захъхъор"
+
+// Morze Bałtyckie  - Baltijos jūra - Baltijas jūra -  Läänemeri - Itämeri - Östersjön - Østersøen - Ostsee - Балтийское море
+// [LATIN, CYRILLIC]
+//   "Morze Bałtyckie  - Baltijos jūra - Baltijas jūra -  Läänemeri - Itämeri - Östersjön - Østersøen - Ostsee"
+//   "Балтийское море"
+
+// Xaafuun حافون‎
+// [LATIN, ARABIC]
+//   "Xaafuun"
+//   "حافون‎"
+
+// 긴계단 (Gingyedan)
+// [LATIN, HANGUL]
+//   "긴계단"
+//   "Gingyedan"
+
+// "Maţarī, مطري"
+// [ARABIC, LATIN]
+//   ""Maţarī"
+//   "مطري""
+
+// 沼の平(numanodaira)
+// [HAN, HIRAGANA, LATIN]
+//   "沼の平(numanodaira)"
+
+// كöردوا قرة بلان
+// [ARABIC, LATIN]
+//   "كöردوا قرة بلان"
+
+// LEM 027 - ΚΟΥΚΟΝΗΣΙ
+// [LATIN, GREEK]
+//   "LEM 027"
+//   "ΚΟΥΚΟΝΗΣΙ"
+
+// 28/10 R چک
+// [ARABIC, LATIN]
+//   "28/10 R"
+//   "چک"
+
+// 第2D區 Area 2D
+// [HAN, LATIN]
+//   "第2D區 Area 2D"
+
+// Indian Island /  Alənαpayí-Mənəhan
+// [LATIN, GREEK]
+//   "Indian Island /  Alənαpayí-Mənəhan"
+
+// Cité Portugaise             الحي البرتغالي
+// [ARABIC, LATIN]
+//   "Cité Portugaise"
+//   "الحي البرتغالي"
