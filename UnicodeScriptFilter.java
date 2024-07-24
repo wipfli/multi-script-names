@@ -8,6 +8,8 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 public class UnicodeScriptFilter {
 
@@ -161,6 +163,8 @@ public class UnicodeScriptFilter {
 
             String line;
 
+            Map<Integer, Integer> counter = new HashMap<>(); // number of segments -> count
+
             // Read each line from the file
             while ((line = reader.readLine()) != null) {
                 Set<UnicodeScript> scriptsInLine = new HashSet<>();
@@ -204,33 +208,31 @@ public class UnicodeScriptFilter {
                     continue;
                 }
 
+                counter.put(scriptsInLine.size(), counter.getOrDefault(scriptsInLine.size(), 0) + 1);
+
                 // Check if the line contains more than one unique script
-                if (scriptsInLine.size() > 1) {
+                if (scriptsInLine.size() > 2) {
+                    // if (scriptsInLine.contains(UnicodeScript.TIFINAGH) || 
+                    // scriptsInLine.contains(UnicodeScript.MONGOLIAN) || 
+                    // scriptsInLine.contains(UnicodeScript.ETHIOPIC)) {
+                    //     continue;
+                    // }
 
                     List<String> segments = segmentByScript(line);
 
-                    boolean hasSingleCharaterSegment = false;
+                    System.out.println(line);
+                    System.out.println(scriptsInLine);
+                    
                     for (String segment : segments) {
-                        if (segment.length() <= 1) {
-                            hasSingleCharaterSegment = true;
-                        }
+                        System.out.println("  \"" + segment + "\"");
                     }
-                    if (true) {
-                    // if (hasSingleCharaterSegment) {
-                        System.out.println(line);
-                        System.out.println(scriptsInLine);
-                        
-                        for (String segment : segments) {
-                            System.out.println("  \"" + segment + "\"");
-                        }
-                        System.out.println();
-                    }
-
+                    System.out.println();
 
                     writer.write(line);
                     writer.newLine();
                 }
             }
+            System.out.println(counter);
         } catch (IOException e) {
             // Handle any I/O errors
             System.err.println("An error occurred while processing the file: " + e.getMessage());
