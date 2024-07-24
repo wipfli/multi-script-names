@@ -78,6 +78,7 @@ public class UnicodeScriptFilter {
         return result;
     }
 
+    // 
     public static boolean hasRepeatedScript(List<String> segments) {
 
         Set<UnicodeScript> scripts = new HashSet<>();
@@ -96,6 +97,7 @@ public class UnicodeScriptFilter {
         return false;
     }
 
+    // Дæллаг Сарабукъ
     public static boolean hasLengthOneSegment(List<String> segments) {
         for (String segment : segments) {
             if (segment.length() == 1) {
@@ -115,24 +117,45 @@ public class UnicodeScriptFilter {
         StringBuilder currentSegment = new StringBuilder();
         Character.UnicodeScript currentScript = Character.UnicodeScript.of(input.charAt(0));
 
+        if (currentScript == Character.UnicodeScript.COMMON || 
+        currentScript == UnicodeScript.UNKNOWN || 
+        currentScript == UnicodeScript.INHERITED) {
+            currentScript = null;
+        }
         // TODO: handle special case when first letter is COMMON, INHERITED, or UNKNOWN
+        // 31 GD چک
+
 
         for (char ch : input.toCharArray()) {
             Character.UnicodeScript script = Character.UnicodeScript.of(ch);
 
-            if (script.equals(currentScript) || script == Character.UnicodeScript.COMMON || script == UnicodeScript.UNKNOWN || script == UnicodeScript.INHERITED) {
-                currentSegment.append(ch);
-            } else {
-                if (currentSegment.length() > 0) {
-                    String segment = cleanEndsAndZWSP(currentSegment.toString());
-                    if (segment.length() > 0) {
-                        segments.add(segment);
-                    }
-                }
-                currentSegment.setLength(0); // Clear the current segment
-                currentSegment.append(ch);
-                currentScript = script;
+            if (script == Character.UnicodeScript.COMMON || 
+            script == UnicodeScript.UNKNOWN || 
+            script == UnicodeScript.INHERITED) {
+                script = null;
             }
+
+            if (currentScript == null) {
+                // handles the start of the string if the first character is not 
+                // a defined script (UNKNOWN, INHERITED, COMMON)
+                currentScript = script;
+                currentSegment.append(ch);
+            }
+            else {
+                if (script == currentScript || script == null) {
+                    currentSegment.append(ch);
+                } else {
+                    if (currentSegment.length() > 0) {
+                        String segment = cleanEndsAndZWSP(currentSegment.toString());
+                        if (segment.length() > 0) {
+                            segments.add(segment);
+                        }
+                    }
+                    currentSegment.setLength(0); // Clear the current segment
+                    currentSegment.append(ch);
+                    currentScript = script;
+                }
+            }  
         }
 
         if (currentSegment.length() > 0) {
